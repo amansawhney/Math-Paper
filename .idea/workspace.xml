@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4c64415-bb08-455e-9f2e-d1136af1dd43" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/.idea/Pong.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/RL.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/checkpoint" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1350000.data-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1350000.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1350000.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1360000.data-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1360000.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1360000.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1370000.data-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1370000.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1370000.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1380000.data-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1380000.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1380000.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1390000.data-00000-of-00001" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1390000.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong-dqn-1390000.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pong/pong.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/network.py" afterPath="$PROJECT_DIR$/network.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +17,8 @@
       <file leaf-file-name="network.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/network.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="195">
+              <caret line="13" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -188,8 +167,8 @@
     <entry file="file://$PROJECT_DIR$/Pong/pong.py" />
     <entry file="file://$PROJECT_DIR$/network.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="195">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
       </provider>

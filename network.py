@@ -1,4 +1,4 @@
-#derative of this: https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/src/network3.py
+#stripped down version of this: https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/src/network3.py
 
 
 
